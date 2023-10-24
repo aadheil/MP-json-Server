@@ -1,0 +1,128 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "vfc",
+      "url": "https://th.bing.com/th/id/OIP.mSPYDqSX-wqRjfisl8gndwHaEK?pid=ImgDet&rs=1",
+      "embbedlink": "https://www.youtube.com/embed/SpP8mqM9neE"
+    },
+    {
+      "id": "2",
+      "caption": "vcc",
+      "url": "https://th.bing.com/th/id/OIP.JVVg4RXWwN0qUJr-hDWxjAHaEK?pid=ImgDet&rs=1",
+      "embbedlink": "https://www.youtube.com/embed/bFiQitikAPQ"
+    },
+    {
+      "id": "3",
+      "caption": "2018 Movie",
+      "url": "https://telugustop.com/wp-content/uploads/2023/06/2018-Everyone-Is-A-Hero-movie.jpeg",
+      "embbedlink": "https://www.youtube.com/embed/Af3cjNPhM4o"
+    },
+    {
+      "id": "4",
+      "caption": "KGF 2",
+      "url": "https://1.bp.blogspot.com/-j8ga2gup0wA/YBU-eIkLYvI/AAAAAAAADKM/9H6HmiF9kJQH0TL-KtaydIxN-m0GouVrwCLcBGAsYHQ/s0/KGF2%2BHDgallery%2B9.jpeg",
+      "embbedlink": "https://www.youtube.com/embed/R4He_Gcn7cA"
+    },
+    {
+      "id": "5",
+      "caption": "SSE side A",
+      "url": "https://th.bing.com/th/id/OIP.sHCrfI2zfGTWeidAfMABBwHaE7?pid=ImgDet&rs=1",
+      "embbedlink": "https://www.youtube.com/embed/hcJ1ZHHahMA"
+    },
+    {
+      "id": "7",
+      "caption": "King of kotha",
+      "url": "https://th.bing.com/th/id/OIP.QiB7YymXbBuVRP__G9sM_wHaFj?pid=ImgDet&rs=1",
+      "embbedlink": "https://www.youtube.com/embed/dljEVygvwG8"
+    },
+    {
+      "id": "8",
+      "caption": "Jupite Mazha",
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b4bff8139209237.622b5e5ce4230.png",
+      "embbedlink": "https://www.youtube.com/embed/7xQCCw5sbdY"
+    }
+  ],
+  "categories": [
+    {
+      "categoryvalue": "Trailers",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "2018 Movie",
+          "url": "https://telugustop.com/wp-content/uploads/2023/06/2018-Everyone-Is-A-Hero-movie.jpeg",
+          "embbedlink": "https://www.youtube.com/embed/Af3cjNPhM4o"
+        },
+        {
+          "id": "7",
+          "caption": "King of kotha",
+          "url": "https://th.bing.com/th/id/OIP.QiB7YymXbBuVRP__G9sM_wHaFj?pid=ImgDet&rs=1",
+          "embbedlink": "https://www.youtube.com/embed/dljEVygvwG8"
+        },
+        {
+          "id": "4",
+          "caption": "KGF 2",
+          "url": "https://1.bp.blogspot.com/-j8ga2gup0wA/YBU-eIkLYvI/AAAAAAAADKM/9H6HmiF9kJQH0TL-KtaydIxN-m0GouVrwCLcBGAsYHQ/s0/KGF2%2BHDgallery%2B9.jpeg",
+          "embbedlink": "https://www.youtube.com/embed/R4He_Gcn7cA"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryvalue": "Songs",
+      "allVideos": [
+        {
+          "id": "8",
+          "caption": "Jupite Mazha",
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b4bff8139209237.622b5e5ce4230.png",
+          "embbedlink": "https://www.youtube.com/embed/7xQCCw5sbdY"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "KGF 2",
+      "embbedlink": "https://www.youtube.com/embed/R4He_Gcn7cA",
+      "timeStamp": "10/10/2023, 10:25:59 AM",
+      "id": 3
+    },
+    {
+      "caption": "2018 Movie",
+      "embbedlink": "https://www.youtube.com/embed/Af3cjNPhM4o",
+      "timeStamp": "10/10/2023, 10:26:23 AM",
+      "id": 4
+    },
+    {
+      "caption": "KGF 2",
+      "embbedlink": "https://www.youtube.com/embed/R4He_Gcn7cA",
+      "timeStamp": "10/10/2023, 10:28:52 AM",
+      "id": 5
+    },
+    {
+      "caption": "vcc",
+      "embbedlink": "https://www.youtube.com/embed/bFiQitikAPQ",
+      "timeStamp": "10/10/2023, 10:47:17 AM",
+      "id": 8
+    },
+    {
+      "caption": "2018 Movie",
+      "embbedlink": "https://www.youtube.com/embed/Af3cjNPhM4o",
+      "timeStamp": "10/10/2023, 10:49:53 AM",
+      "id": 9
+    },
+    {
+      "caption": "vcc",
+      "embbedlink": "https://www.youtube.com/embed/bFiQitikAPQ",
+      "timeStamp": "10/10/2023, 10:50:50 AM",
+      "id": 10
+    },
+    {
+      "caption": "KGF 2",
+      "embbedlink": "https://www.youtube.com/embed/R4He_Gcn7cA",
+      "timeStamp": "10/13/2023, 09:37:59 AM",
+      "id": 11
+    }
+  ]
+}
